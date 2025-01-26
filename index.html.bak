@@ -16,6 +16,12 @@
       gtag("config", "G-EZM74395F2");
     </script>
 	
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6878762486915837"
+      crossorigin="anonymous"
+    ></script>
+	
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <meta
@@ -45,7 +51,18 @@
     </nav>
     <div class="wrap" id="wrap">
       <header class="homeheader">
-        <div class="title" name="Welcome to quiz-20.github.io!"> Hundreds of G4M3S</div>
+        <div class="title" name="Welcome to quiz-20.github.io!">Welcome to quiz-20.github.io</div>
+        <div class="sub">
+          <b
+            style="
+              font-size: 23px;
+              margin-bottom: 15px;
+              display: block;
+              font-style: italic;
+            "
+            >Fun, redefined:</b
+          >
+          Hundreds of G4M3S, countless features, endless play!
         </div>
       </header>
       <div class="functions" id="functions">
