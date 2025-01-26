@@ -28,7 +28,7 @@
 }
 
 body {
-  background-color: radial-gradient(circle 50vw at 100% 0, #fcff00, transparent), radial-gradient(circle 50vw at 20% 25vw, #f84e00, transparent), linear-gradient(180deg, #ff8a02, #eda60b 25vw, #efaa00 50vw);
+  background-color: #4e0000;
   /*
   background-color: var(--bg-color);*/
 }
